@@ -1,6 +1,4 @@
-from tkinter import*
+from tkinter import *
 from copy import*
+from math import sqrt
 import time
-
-
-ecriture=("comic sans ms",16)
